@@ -1,0 +1,23 @@
+[DLSimProject]
+Name=Wolfram
+Version=0.0.1
+Model=:fx-9860G.dlm
+SourcePath=SRC
+MemoryPath=INIT
+MemCardPath=SDCard
+
+[Program1]
+Program=Wolfram.G1A
+Debug=Debug\FXADDINror.dbg
+LoadAddress=80000000:90100000
+
+[Files]
+SourceFile=..\WolframCasio\screen.cpp
+SourceFile=..\WolframCasio\screen.hpp
+SourceFile=..\WolframCasio\syscall.src
+SourceFile=:main.cpp
+SourceFile=F:\CASIO\fx-9860G SDK\MonochromeLib\MonochromeLib.c
+SourceFile=:font.c
+HeaderFile=..\WolframCasio\syscall.h
+HeaderFile=F:\CASIO\fx-9860G SDK\MonochromeLib\MonochromeLib.h
+HeaderFile=:font.h

@@ -1,0 +1,12 @@
+//------------------------------------------------------------------
+// Addin-Application header control file, created with the CASIO SDK
+//------------------------------------------------------------------
+[OUTPUT]     : "WOLFRAM.G1A"
+[BINDATA]    : "FXADDINror.bin"
+[DISPNAME]   : "Wolfram"
+[APPNAME]    : "@WOLFRAM"
+[VERSION]    : "00.00.0001"
+[APL_ICON]   : "icon.bmp"
+[MODULE_NUM] : 0
+[MOD1_TITLE] : "Wolfram"
+[MOD1_ICON]  : "eActivityIcon.bmp"
