@@ -8,6 +8,6 @@ All the sources you should need to run it are available in those repositories :
 * http://github.com/Frazew/WolframCasio <-- This is where you are
 
 ##And how do I know the setup for this ?
-Please see the wiki ! (TODO)
+Please see the wiki !
 ##And the licence ?
 The license is GNU GPL altough some of the libraries I used may have a less restrictive license. If so, they of course keep that license !
