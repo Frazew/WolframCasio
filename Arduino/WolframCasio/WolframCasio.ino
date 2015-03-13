@@ -14,8 +14,5 @@ void loop()
         char data = calc.read();
         Serial.write(data);
     }
-    
-    Serial.write(0x55);
-    
     if(Serial.available()) calc.write(Serial.read());
 }
